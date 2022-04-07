@@ -9,7 +9,7 @@
     "@babel/preset-env": "latest",
     "@babel/preset-react": "latest",
     "@material-ui/core": "latest",
-    "babel-loader": "next",
+    "babel-loader": "8.2.3",
     "express": "latest",
     "nodemon": "latest",
     "prop-types": "latest",
