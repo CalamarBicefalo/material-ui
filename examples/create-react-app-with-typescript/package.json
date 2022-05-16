@@ -8,7 +8,7 @@
     "@types/react-dom": "*",
     "react": "latest",
     "react-dom": "latest",
-    "react-scripts-ts": "latest"
+    "react-scripts-ts": "4.0.1"
   },
   "devDependencies": {
     "@types/jest": "*",
